@@ -1,5 +1,9 @@
 ### Hello 👋
 
+- 🔭 I’m currently working on implementing OS techniques in Rust - check out my Rust implementation of Banker's Algorithm [here](https://github.com/ammuiyer/rustDeadlockDetector)!
+- 🌱 I’m currently learning Rust, and seeing how it interacts with the Operating System.
+- Reach out via email, at meenakshiiye@umass.edu. 
+
 <!--
 **ammuiyer/ammuiyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
