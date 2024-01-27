@@ -1,6 +1,6 @@
 ### Hello 👋
 
-- 🔭 I’m currently working on implementing a reverse shell in Rust - Check it out [here](https://github.com/ammuiyer/revShell)!
+- 🔭 I’m currently working on implementing a reverse shell in Rust - Check it out [here](https://github.com/ammuiyer/reverseShell)!
 - 🌱 I’m currently learning Rust, and seeing how it interacts with the Operating System.
 - Reach out via email, at meenakshiiye@umass.edu. 
 
