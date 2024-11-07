@@ -2,7 +2,7 @@
 
 Check out my personal website: https://ammuiyer.github.io/
 - 🔭 I’m currently working on developing new attacks and defenses in a Personalized Federated Learning setting - Check it out [here](https://github.com/ammuiyer/pfl)!
-- 🌱 I’m currently learning Rust, and seeing how it interacts with the Operating System.
+- 🌱 I’m currently doing crypto research, and interested in working on Applied Cryptography in the industry.
 - Here is my tech stack:
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
