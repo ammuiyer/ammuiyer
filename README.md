@@ -1,10 +1,3 @@
-### Hello 👋
-
-Check out my personal website: https://ammuiyer.github.io/
-- 🔭 I’m currently working on developing new attacks and defenses in a Personalized Federated Learning setting - Check it out [here](https://github.com/ammuiyer/pfl)!
-- 🌱 I’m currently doing crypto research, and interested in working on Applied Cryptography in the industry.
-- Here is my tech stack:
-
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
@@ -36,18 +29,3 @@ Check out my personal website: https://ammuiyer.github.io/
 
 
 
-
-<!--
-**ammuiyer/ammuiyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on implementing OS techniques in Rust - check out my Rust implementation of Banker's Algorithm here!
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
