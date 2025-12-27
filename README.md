@@ -20,7 +20,6 @@
      <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ammuiyer&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
      <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ammuiyer&layout=compact&langs_count=8&theme=algolia"/>
      <img height="160em" src="https://streak-stats.demolab.com/?user=ammuiyer"/>
-     <img align="center" src="https://api.githubtrends.io/user/svg/ammuiyer/repos" />
      
    </a>
 </p>
